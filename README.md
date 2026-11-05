@@ -3,7 +3,6 @@
 A small, fast QR code generator. Paste a link, pick a colour and size, download a PNG. No account, no backend, no tracking.
 
 
-
 ## Features
 
 - Generate a QR code from any `http` / `https` link
@@ -18,11 +17,9 @@ A small, fast QR code generator. Paste a link, pick a colour and size, download 
 It is a static site, so there is nothing to install. 
 1. Download the folder
 2. Open `index.html` in your browser.
-3. 
+
 
 An internet connection is needed on first load because the QR library comes from a CDN.
 
 
-## Contact
 
-Questions or feedback: **shameel.mx@gmail.com**
