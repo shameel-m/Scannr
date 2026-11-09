@@ -1,25 +1,23 @@
 # Scannr
 
-A small, fast QR code generator. Paste a link, pick a colour and size, download a PNG. No account, no backend, no tracking.
+A lightweight QR code generator. Paste a link, customise the colour and size, and download your QR code as a PNG. No account required, no backend, and no tracking.
 
+**Live Demo:** [View Scannr]([https://your-deployment-link.com](https://scannr.shameelm.workers.dev/))
 
 ## Features
 
-- Generate a QR code from any `http` / `https` link
-- One-tap **Paste** button for the link field
-- Choose the QR color and size (small, medium, large)
-- Download as PNG, with a built-in white margin so it scans anywhere
-- Light and dark mode: follows your system, with a manual toggle that is remembered
-- Everything runs in your browser; your link is never sent to a server
+- Generate QR codes from any `http` or `https` URL
+- One-click Paste button for quick URL input
+- Customise QR code colours and choose from three sizes: small, medium, and large
+- Download QR codes as PNG files with built-in white margins for reliable scanning
+- Light and dark themes, with automatic system preference detection and a manually selectable, persistent theme
+- Entirely client-side processing. Your links are never transmitted to a server
 
-## Run it locally
+## Run Locally
 
-It is a static site, so there is nothing to install. 
-1. Download the folder
+Scannr is a static website and requires no installation or build process.
+
+1. Download or clone the repository.
 2. Open `index.html` in your browser.
 
-
-An internet connection is needed on first load because the QR library comes from a CDN.
-
-
-
+An internet connection is required on the first load to retrieve the QR code library from the CDN.
