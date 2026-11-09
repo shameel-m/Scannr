@@ -2,7 +2,7 @@
 
 A lightweight QR code generator. Paste a link, customise the colour and size, and download your QR code as a PNG. No account required, no backend, and no tracking.
 
-**Live Demo:** https://your-deployment-link.com](https://scannr.shameelm.workers.dev
+**Live Demo:** https://scannr.shameelm.workers.dev
 
 ## Features
 
